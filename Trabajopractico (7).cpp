@@ -3,7 +3,7 @@
 #include <string.h>
 using namespace std;
 
-ijijijiiji
+hola
 struct repartidor {
    char nya[36];
    unsigned dni;
