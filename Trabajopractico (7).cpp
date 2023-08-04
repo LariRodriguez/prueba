@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 using namespace std;
-
+hola
 
 struct repartidor {
    char nya[36];
