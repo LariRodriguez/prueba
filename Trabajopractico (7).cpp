@@ -275,9 +275,6 @@ void zonaConMasVehiculos(int vzonas[]){ //fun que informa que zona tiene mas rep
 
 
 
-
-
-
 /*3)Informar, si hubo, qué medios de transporte no habrá disponibles,
 por no haber ningún inscripto, para la
 realización de entregas (sin importar la zona).
